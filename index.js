@@ -32,4 +32,4 @@ var funkyFunction = function() {
 
 //var theFunk = intermediate()
 
-var theFunk = funkyFunction.function()
+var theFunk = funkyFunction()()
